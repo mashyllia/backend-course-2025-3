@@ -50,3 +50,4 @@ if (options.display) console.log(output);
 if (options.output) fs.writeFileSync(options.output, output, 'utf8');
 // Додано параметри для варіанту 1
 // Додано параметри для варіанту 1
+// Додано параметри для варіанту 1
