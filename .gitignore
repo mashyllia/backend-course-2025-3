@@ -1,0 +1,22 @@
+# Ігноруємо теку з модулями Node.js
+node_modules/
+
+# Тимчасові файли системи macOS
+.DS_Store
+
+# Логи Node.js
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Файли середовищ
+.env
+.env.local
+
+# Тимчасові каталоги
+tmp/
+dist/
+build/
+
+# Кеш
+.cache/
